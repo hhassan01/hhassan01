@@ -1,4 +1,4 @@
-### Hey Tech Wandered
+### Hey 👋
 
 You've reached a software engineer whos trying to live one git-commit at a time. 
 
