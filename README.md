@@ -20,3 +20,11 @@ Skilled in event-driven architecture, cloud infrastructure, and smart contract d
 | GraphQL           |                    |                 |                |
 
 </div>
+
+---
+
+### 📫 Get in Touch
+- **LinkedIn:** [hhssnn](https://www.linkedin.com/in/hhssnn)
+- **Email:** hassanhamza0101@gmail.com
+
+Feel free to reach out if you want to connect or collaborate on exciting projects!
