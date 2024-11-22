@@ -17,7 +17,7 @@ Skilled in event-driven architecture, cloud infrastructure, and smart contract d
 | JavaScript        | Node.js (NestJS)    | Serverless      | MySQL          |
 | Ruby              | Ruby on Rails       | Kubernetes      | MongoDB        |
 | Python            | Gatsby              | CI/CD pipelines | Amazon RDS     |
-| GO                |                     |                 |                |
+| GO                | Gin                 |                 |                |
 | GraphQL           |                     |                 |                |
 
 </div>
